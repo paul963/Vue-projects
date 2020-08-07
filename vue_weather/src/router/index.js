@@ -7,7 +7,7 @@ Vue.use(VueRouter)
   const routes = [
   {
     path: '/',
-    name: 'Weatherr',
+    name: 'Weather',
     component: Weather
   }
 ]
