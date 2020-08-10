@@ -3,7 +3,7 @@ Application that takes over the weather via API.
 Depending on the temperature, the background changes its background. 
 If the temperature is lower than 20 degrees, the bottom is blue, and if it is higher, the background is red
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
