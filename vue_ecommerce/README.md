@@ -1,4 +1,5 @@
 # vue_ecommerce
+Application in progress for IT ecommerce.
 
 ## Project setup
 ```
